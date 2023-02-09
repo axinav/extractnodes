@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/ExtractNodes" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
